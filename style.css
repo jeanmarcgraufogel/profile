@@ -17,7 +17,7 @@ body {
   }
 
   h1 {
-    color: red;
+    color: #f94343;
     font-size: 20px;
     font-family: arial;
   }
@@ -87,7 +87,7 @@ a:hover {
     font-weight: 500;
     padding: 10px;
     border-radius: 4px;
-    background-color: red;
+    background-color: #ed5050;
     color: white;
   }
 
