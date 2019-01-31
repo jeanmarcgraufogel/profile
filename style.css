@@ -127,7 +127,7 @@ a:hover {
     left: 0px;
     top: 0px;
     bottom: 0px;
-    width: 120px;
+    width: 300px;
     text-align: center;
   }
 
@@ -143,4 +143,8 @@ a:hover {
 
 #sidebar {
     text-align: center;
+}
+
+#page-content {
+  margin left: 300px;
 }
